@@ -1,1 +1,1 @@
-Authentication practice in an API, install npm modules(npm i)
+Authentication practice in an API, install npm modules (npm i)
